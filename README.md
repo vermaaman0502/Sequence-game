@@ -1,6 +1,6 @@
 # Sequence Game
 
-[preview-img](/sounds/Screenshot%202023-07-31%20133242.png);
+![Game-img](/sounds/game.png)
 
 Welcome to Sequence Game! This project allows you to play the popular sequence card a game called Sequence. Sequence is a fun and challenging game that combines elements of memorizing, skill and smart-work.
 
