@@ -25,6 +25,8 @@ $(".btn").click(function() {
   checkAnswer(userClickedPattern.length-1);
 });
 
+
+
 function checkAnswer(currentLevel) {
 
     if (gamePattern[currentLevel] === userClickedPattern[currentLevel]) {
