@@ -44,7 +44,7 @@ Thank you for your interest in contributing to the Sequence Game! Your contribut
 
 ## Reporting Issues
 
-If you encounter any issues with the Drum Kit Project or have suggestions for improvements, please feel free to open an issue on the GitHub repository. When opening an issue, provide as much detail as possible, including:
+If you encounter any issues with the Sequence Game Project or have suggestions for improvements, please feel free to open an issue on the GitHub repository. When opening an issue, provide as much detail as possible, including:
 
 - A clear and descriptive title.
 
@@ -57,14 +57,14 @@ If you encounter any issues with the Drum Kit Project or have suggestions for im
 
 ## Code of Conduct
 
-Please note that the Drum Kit Project follows an open and inclusive community. Be respectful and considerate towards others while interacting with the project and its contributors. We encourage a positive and welcoming environment for everyone.
+Please note that the Sequence Game Project follows an open and inclusive community. Be respectful and considerate towards others while interacting with the project and its contributors. We encourage a positive and welcoming environment for everyone.
 
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the same [MIT License](LICENSE) that covers the Drum Kit Project.
+By contributing to this project, you agree that your contributions will be licensed under the same [MIT License](LICENSE) that covers the Sequence Game Project.
 
-Thank you for your interest in contributing to the Drum Kit Project! Your support and collaboration are highly appreciated. Let's create music together! 🎶
+Thank you for your interest in contributing to the Sequence Game Project! Your support and collaboration are highly appreciated. Let's create music together! 🎶
 
 
 
